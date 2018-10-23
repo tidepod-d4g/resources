@@ -20,5 +20,9 @@ hey everyone! This repository will be used to post various helpful resources!! -
 - supplemental datasets along with scraped genius lyrics if you can think of any
 - e.g. any existing analyses of song lyrics, might provide insight into political affiliation
 
+- The Million Song Dataset (https://www.kaggle.com/sandyhe/songs-emotion)
+- Sing-a-Song (https://www.kaggle.com/devisangeetha/sing-a-song-lyrics-is-here)
+- Billboard 1945-2015 (https://www.kaggle.com/rakannimer/billboard-lyrics)
+
 ## Code
 - Nathan mentioned earlier that he had found scripts to manually scrape genius.com to get lyrics into dataframe format, post that here!
