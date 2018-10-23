@@ -1,8 +1,6 @@
 # Resources for Team TidePod
 ### UGA Data for Good team lead by Sai Aguru
 
-hey everyone! This repository will be used to post various helpful resources!! -sonia
-
 ## Python tutorials!!! important
 - [Understanding numpy](https://docs.scipy.org/doc/numpy/user/quickstart.html) : NumPy is one of the most widely used Python packages. It allows data representation through arrays! Super good to know as an intro to using data
 - [Understanding Pandas](https://towardsdatascience.com/a-quick-introduction-to-the-pandas-python-library-f1b678f34673) : Another super very important python package! **Please read and understand, the most important part of Pandas is understanding how to store data into a dataframe**
@@ -17,9 +15,6 @@ hey everyone! This repository will be used to post various helpful resources!! -
 - any papers you find relevant, Keshav and Nathan were looking at some during meeting!
 
 ## Data and Datasets
-- supplemental datasets along with scraped genius lyrics if you can think of any
-- e.g. any existing analyses of song lyrics, might provide insight into political affiliation
-
 - The Million Song Dataset (https://www.kaggle.com/sandyhe/songs-emotion)
 - Sing-a-Song (https://www.kaggle.com/devisangeetha/sing-a-song-lyrics-is-here)
 - Billboard 1945-2015 (https://www.kaggle.com/rakannimer/billboard-lyrics)
